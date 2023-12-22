@@ -7,3 +7,6 @@
 1. CSS
 
 ## Notes
+
+-Improved responsiveness
+-Worked on images and made self-sufficient

@@ -75,7 +75,7 @@ section.container .row {
   display: flex;
   align-items: center;
   height: 350px;
-  background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-4/buildawebsite.jpg");
+  background-image: url("images/buildawebsite.jpg");
   background-size: cover;
   background-position: center;
 }
